@@ -5,7 +5,6 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/jb638/OneDrive/Documents/Unreal Projects/WalkingProject/EveryoneHasGone/Content/BP_MergeTest.uasset",
 				"C:/Users/danjb/Desktop/WalkingProject/WalkingSIm/EveryoneHasGone/Content/WalkingGame/Levels/Playground.umap",
 				"C:/Users/danjb/Desktop/WalkingProject/WalkingSIm/EveryoneHasGone/Content/WalkingGame/Modes/BP_WalkingGameMode.uasset",
 				"C:/Users/danjb/Desktop/WalkingProject/WalkingSIm/EveryoneHasGone/Content/WalkingGame/Modes/Enum_GameStates.uasset",
@@ -47,6 +46,8 @@
 				"C:/Users/danjb/Desktop/WalkingProject/WalkingSIm/EveryoneHasGone/Content/WalkingGame/AI/BB_NPC.uasset",
 				"C:/Users/danjb/Desktop/WalkingProject/WalkingSIm/EveryoneHasGone/Content/WalkingGame/AI/BT_NPC.uasset",
 				"C:/Users/danjb/Desktop/WalkingProject/WalkingSIm/EveryoneHasGone/Content/WalkingGame/AI/TEST.uasset",
+				"C:/Users/danjb/Desktop/WalkingProject/WalkingSIm/EveryoneHasGone/Content/BP_AnotherMerge.uasset",
+				"C:/Users/jb638/OneDrive/Documents/Unreal Projects/WalkingProject/EveryoneHasGone/Content/BP_MergeTest.uasset",
 				"C:/Users/danjb/Desktop/WalkingProject/WalkingSIm/EveryoneHasGone/Content/FirstPerson/Input/Actions/IA_Interact.uasset",
 				"C:/Users/danjb/Desktop/WalkingProject/WalkingSIm/EveryoneHasGone/Content/FirstPerson/Input/IMC_Default.uasset",
 				"C:/Users/danjb/Desktop/WalkingProject/WalkingSIm/EveryoneHasGone/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
