@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "EveryoneHasGone",
+			"Path": "C:\\Users\\danjb\\Desktop\\WalkingProject\\WalkingSIm\\EveryoneHasGone\\Source\\EveryoneHasGone.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "EveryoneHasGoneEditor",
+			"Path": "C:\\Users\\danjb\\Desktop\\WalkingProject\\WalkingSIm\\EveryoneHasGone\\Source\\EveryoneHasGoneEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
